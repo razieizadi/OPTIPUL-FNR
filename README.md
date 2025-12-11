@@ -236,7 +236,7 @@ Potential extensions of this work:
 
 ## Version History
 
-- **v1.0.0** (2024): Initial release with trained models and optimization tools
+- **v1.0.0** (2025): Initial release with trained models and optimization tools
 
 ---
 
