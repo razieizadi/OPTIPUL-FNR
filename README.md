@@ -4,7 +4,7 @@
 
 This repository contains the complete implementation of machine learning surrogate models for pultrusion process prediction and optimization, as described in:
 
-> [Razie Izadi et al.], "Machine Learning-Enhanced Modelling and Experimental Analysis of Foam-Core Thermoplastic Pultrusion" [Journal Name], [Year]. DOI: [to be added]
+> Razie Izadi et al., "Machine learning-enhanced modelling and experimental analysis of foam-core thermoplastic composites produced via pultrusion" Composite Part B, 2026. DOI: https://doi.org/10.1016/j.compositesb.2026.113476
 
 ## Overview
 
@@ -188,12 +188,12 @@ Multiple process conditions are stacked sequentially in the order: velocity incr
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{izadi2025Machine,
-  title={Machine Learning-Enhanced Modelling and Experimental Analysis of Foam-Core Thermoplastic Pultrusion},
+@article{izadi2026Machine,
+  title={Machine learning-enhanced modelling and experimental analysis of foam-core thermoplastic composites produced via pultrusion},
   author={Razie Izadi et al},
-  journal={Journal Name},
-  year={2025},
-  doi={to be added}
+  journal={Composite Part B},
+  year={2026},
+  doi={https://doi.org/10.1016/j.compositesb.2026.113476}
 }
 ```
 
